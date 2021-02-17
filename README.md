@@ -1,5 +1,3 @@
-### https://ezrogha.github.io/Pomodoro-app-react/
-
 ## Insights
 - [How the pomodoro technique works](https://www.themuse.com/advice/take-it-from-someone-who-hates-productivity-hacksthe-pomodoro-technique-actually-works)
 
