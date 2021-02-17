@@ -113,9 +113,9 @@ const App = () => {
 					/>
     </Grid.Column>
       </Grid>
-      <Grid centered style={{ marginTop: '5em' }}>
+      <Grid centered style={{ paddingTop: '5em' }}>
         <Grid.Row>
-      <Header as="h1" style={{ color: 'white' }}>Pomodoros</Header>
+      <Header as="h2" style={{ color: 'white' }}>Pomodoros</Header>
     </Grid.Row>
         <Grid.Row>
       <Stats today={pomodoroCount-1} />
