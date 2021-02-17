@@ -26,7 +26,7 @@ const CylesContainer = styled.div`
     top: 20px;
     left: 50px;
     // border: 1px solid red;
-    color: rgb(84, 200, 255);
+    color: whitesmoke;
 `
 
 const pomos = (pomoCount, pomoState, status) => {
@@ -40,7 +40,7 @@ const pomos = (pomoCount, pomoState, status) => {
 			pomoArray.push(<StyledLoaderContainer>
 				<StyledLoader
 					type="Puff"
-					color={(status !== 'pomodoro' || pomoState === null) ? "grey" : "#00BFFF"}
+					color={(status !== 'pomodoro' || pomoState === null) ? "whitesmoke" : "grey"}
 					height={30}
 					width={30}
 				/>
