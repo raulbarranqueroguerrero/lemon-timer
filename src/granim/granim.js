@@ -1,5 +1,5 @@
 import Granim from 'granim'
-import BackgroundImage from '../assests/aron.jpg';
+import BackgroundImage from '../assests/pomodoro-background-img.jpg';
 
 var granimInstance = new Granim({
     element: '#image-blending',
