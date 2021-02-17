@@ -16,7 +16,7 @@ export default function InputRange(props) {
     <RangeContainer>
       <label>
         {label}: {value} minutes
-        <StyledRange type="range" step="1" { ...props } />
+         <StyledRange type="range" step="1" { ...props }/>
       </label>
     </RangeContainer>
   )

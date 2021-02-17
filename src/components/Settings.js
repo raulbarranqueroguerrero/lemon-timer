@@ -8,7 +8,7 @@ const SettingsIcon = styled.div`
     position: absolute;
     top: 30px;
     right: 50px;
-    color: grey;
+    color: #CACACA;
     :hover {
         cursor: pointer;
         font-size: 17px

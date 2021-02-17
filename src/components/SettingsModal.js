@@ -37,7 +37,7 @@ export default function SettingsModal({ isOpen, closeModal, updatedPomoData }) {
 						value={shortBreakRangeValue}
 						min="1" max="15"
 						// min="3" max="15"
-						onChange={handleChange.bind(this)} />
+						onChange={handleChange.bind(this)}/>
 
 					<InputRange
 						label='Long Break'

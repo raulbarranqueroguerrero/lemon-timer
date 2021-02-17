@@ -12,14 +12,14 @@ import PomoCycles from './PomoCycles';
 const StyledHeader = styled.h1`
 	color: whitesmoke;
 	font-weight: normal;
-	font-size: 13em;
-	margin-top: 0.5em;
+	font-size: 12em;
+  padding-top 0.5em;
 	@media only screen and (max-width: 875px) {
-		margin-top: 1em;
+		padding-top: 1em;
 		font-size: 9em;
 	}
 	@media only screen and (max-width: 380px) {
-		margin-top: 2em;
+		padding-top: 2em;
     font-size: 5em;
   }
 `;
