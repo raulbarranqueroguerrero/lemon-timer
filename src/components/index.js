@@ -10,7 +10,7 @@ import Settings from './Settings';
 import PomoCycles from './PomoCycles';
 
 const StyledHeader = styled.h1`
-	color: white;
+	color: whitesmoke;
 	font-weight: normal;
 	font-size: 13em;
 	margin-top: 0.5em;
