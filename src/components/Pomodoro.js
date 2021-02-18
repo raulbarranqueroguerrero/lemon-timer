@@ -5,7 +5,7 @@ import PropTypes from 'prop-types'
 export default function Pomodoro (props){
 	const [time, pomodoroCount, pomodoroStatus] = usePomodoroTimer(props)
 	useEffect(() => {
-		document.title = currentTime()
+		document.title = `Lemon 🍋 ${currentTime()}`
 	})
 	function addZero(value) {
 		const strval = value.toString();

@@ -40,7 +40,7 @@ const pomos = (pomoCount, pomoState, status) => {
 			pomoArray.push(<StyledLoaderContainer>
 				<StyledLoader
 					type="Puff"
-					color={(status !== 'pomodoro' || pomoState === null) ? "whitesmoke" : "grey"}
+					color={(status !== 'pomodoro' || pomoState === null) ? "whitesmoke" : "white"}
 					height={30}
 					width={30}
 				/>

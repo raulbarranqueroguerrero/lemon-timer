@@ -12,7 +12,6 @@ export default function usePomodoroTimer({ pomoState, pomodoro_duration, short_b
 	useEffect(() => {
 		const interval = setInterval(() => {
 			if (pomoState === 'start' || pomoState === 'resume') {
-				console.log([totalSeconds, state, pomodoroCount])
 				if (totalSeconds === 0 && state === 'pomodoro') {
 					setPomodoroCount(pomodoroCount + 1)
 					setMinutes(0)

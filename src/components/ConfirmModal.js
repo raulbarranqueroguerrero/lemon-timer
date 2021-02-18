@@ -5,7 +5,7 @@ import { Modal, Header, Button, Icon } from 'semantic-ui-react';
 export default function ConfirmModal({ isModalOpen, stopClicked, handleStop }) {
 	return (
   <Modal basic size='small' open={isModalOpen}>
-    <Header icon='ban' content='Cancel Pomodoro Session' />
+    <Header icon='ban' content='Cancel Lemon Session' />
     <Modal.Content>
       <p>
 					Are you really sure about this?<br />
