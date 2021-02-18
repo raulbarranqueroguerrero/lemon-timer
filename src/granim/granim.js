@@ -16,7 +16,7 @@ var granimInstance = new Granim({
                 ['#80d3fe', '#cacaca'],
                 ['#f0ab51', '#cacaca']
             ],
-            transitionSpeed: 7000
+            transitionSpeed: 9000
         }
     }
 });
