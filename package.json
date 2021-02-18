@@ -40,7 +40,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://ezrogha.github.io/Pomodoro-app-react",
+  "homepage": "https://cranky-newton-95dafe.netlify.app/",
   "devDependencies": {
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
