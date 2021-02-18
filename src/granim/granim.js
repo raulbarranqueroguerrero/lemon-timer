@@ -1,5 +1,5 @@
 import Granim from 'granim'
-import BackgroundImage from '../assests/pomodoro-background-img.jpg';
+import BackgroundImage from '../assests/pomodoro-img-resized.png';
 
 var granimInstance = new Granim({
     element: '#image-blending',
@@ -16,7 +16,7 @@ var granimInstance = new Granim({
                 ['#F7FEFE', '#cacaca'],
                 ['#FFF1F1', '#cacaca']
             ],
-            transitionSpeed: 2000
+            transitionSpeed: 2500
         }
     }
 });

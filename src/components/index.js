@@ -20,7 +20,7 @@ const StyledHeader = styled.h1`
 	}
 	@media only screen and (max-width: 380px) {
 		padding-top: 2em;
-    font-size: 5em;
+    font-size: 7em;
   }
 `;
 const App = () => {
