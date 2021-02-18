@@ -1,5 +1,5 @@
 import Granim from 'granim'
-import BackgroundImage from '../assests/pomodoro-img-resized.png';
+import BackgroundImage from '../assests/pomodoro-mobile.png';
 
 var granimInstance = new Granim({
     element: '#image-blending',
@@ -8,7 +8,7 @@ var granimInstance = new Granim({
     image : {
         source: BackgroundImage,
         blendingMode: 'multiply',
-        stretchMode: ['stretch-if-bigger', 'stretch'],
+        stretchMode: ['stretch', 'stretch'],
     },
     states : {
         "default-state": {
