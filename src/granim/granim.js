@@ -3,20 +3,21 @@ import BackgroundImage from '../assests/pomodoro-mobile.png';
 
 var granimInstance = new Granim({
     element: '#image-blending',
-    direction: 'top-bottom',
+    direction: 'left-right',
     isPausedWhenNotInView: true,
-    image : {
-        source: BackgroundImage,
-        blendingMode: 'multiply',
-        stretchMode: ['stretch', 'stretch'],
-    },
     states : {
         "default-state": {
             gradients: [
-                ['#F7FEFE', '#cacaca'],
-                ['#FFF1F1', '#cacaca']
-            ],
-            transitionSpeed: 2500
+                [
+                    { color: '#833ab4', pos: .2 },
+                    { color: '#fd1d1d', pos: .8 },
+                    { color: '#38ef7d', pos: 1 }
+                ], [
+                    { color: '#40e0d0', pos: 0 },
+                    { color: '#ff8c00', pos: .2 },
+                    { color: '#ff0080', pos: .75 }
+                ],
+            ]
         }
     }
 });
