@@ -115,7 +115,7 @@ const App = () => {
       </Grid>
       <Grid centered style={{ paddingTop: '5em' }}>
         <Grid.Row>
-      <Header as="h2" style={{ color: 'white' }}>Pomodoros</Header>
+      <Header as="h2" style={{ color: 'white' }}>Lemons <span role='img' aria-label='lemon emoji'>🍋</span></Header>
     </Grid.Row>
         <Grid.Row>
       <Stats today={pomodoroCount-1} />

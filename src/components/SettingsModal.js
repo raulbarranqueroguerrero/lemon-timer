@@ -28,7 +28,7 @@ export default function SettingsModal({ isOpen, closeModal, updatedPomoData }) {
 	}
 	return (
 		<Modal open={isOpen} basic size='small'>
-			<Header icon='settings' content='Adjust the Pomodoro' />
+			<Header icon='settings' content='Adjust the Lemon 🍋' />
 			<Modal.Content>
 				<p>
 					<InputRange
