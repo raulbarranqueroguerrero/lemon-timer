@@ -11,6 +11,7 @@ const StyledLoaderContainer = styled.div`
     height: 30px;
     margin-right: 9px;
     margin-left: 5px;
+	 color: whitesmoke;
 `
 
 const StyledLoader = styled(Loader)`
@@ -25,7 +26,6 @@ const CylesContainer = styled.div`
     position: absolute;
     top: 20px;
     left: 50px;
-    // border: 1px solid red;
     color: whitesmoke;
 `
 

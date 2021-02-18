@@ -14,7 +14,7 @@ export default function PomoButton({ isDisabled = false, handlePress, buttonText
 	}
 
 	return (
-		<Button disabled={isDisabled} color="whitesmoke" animated="fade" size="huge" fluid inverted onClick={handlePress}>
+		<Button disabled={isDisabled} color="grey" animated="fade" size="huge" fluid inverted onClick={handlePress}>
 			<Button.Content visible>{buttonText}</Button.Content>
 			<Button.Content hidden>
 				<Icon name={iconName} />
