@@ -48,7 +48,7 @@ export default function SettingsModal({ isOpen, closeModal, updatedPomoData }) {
 						onChange={handleChange.bind(this)} />
 
 					<InputRange
-						label='Pomodoro'
+						label='Lemon'
 						name='pomo'
 						value={pomoRangeValue}
 						min="1" max="60"
