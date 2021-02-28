@@ -22,5 +22,5 @@ Use the pomodoro technique to boost your productivity. Track your progress on a 
 - [Granim.Js](https://github.com/sarcadass/granim.js)
 - [React Semantic UI](https://react.semantic-ui.com/)
 - [react-loader-spinner](https://www.npmjs.com/package/react-loader-spinner)
-- [React Template](https://github.com/ezrogha/Pomodoro-app-react)
+- [React Pomodoro Template](https://github.com/ezrogha/Pomodoro-app-react)
 
