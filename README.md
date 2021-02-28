@@ -1,9 +1,26 @@
-## Insights
-- [How the pomodoro technique works](https://www.themuse.com/advice/take-it-from-someone-who-hates-productivity-hacksthe-pomodoro-technique-actually-works)
+# Lemon Timer
 
-## Tools Used
-- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+![00](https://user-images.githubusercontent.com/74061946/109419036-b19b5080-79cb-11eb-9352-32d3790b0cd4.png)
+
+### [LIVE DEMO](https://lemontimer.netlify.app/)
+
+#### Pomodoro Timer Tracker
+
+Use the pomodoro technique to boost your productivity. Track your progress on a daily, weekly and monthly basis and lead the habit!
+
+### Features
+
+![02](https://user-images.githubusercontent.com/74061946/109419502-18ba0480-79ce-11eb-84be-58f96d6c8789.png)
+
+##### Adjust settings to your needs
+
+![03](https://user-images.githubusercontent.com/74061946/109419719-26bc5500-79cf-11eb-8508-60c472ee939f.png) ![04](https://user-images.githubusercontent.com/74061946/109419726-3176ea00-79cf-11eb-868a-991bfebbe0c9.png)
+
+#### Full responsive animation 
+
+## Credits
 - [Granim.Js](https://github.com/sarcadass/granim.js)
 - [React Semantic UI](https://react.semantic-ui.com/)
-- [Styled-Components](https://www.styled-components.com/)
 - [react-loader-spinner](https://www.npmjs.com/package/react-loader-spinner)
+- [React Template](https://github.com/ezrogha/Pomodoro-app-react)
+
