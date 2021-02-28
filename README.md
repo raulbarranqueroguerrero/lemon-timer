@@ -14,7 +14,7 @@ Use the pomodoro technique to boost your productivity. Track your progress on a 
 
 ##### Adjust settings to your needs
 
-![03](https://user-images.githubusercontent.com/74061946/109419719-26bc5500-79cf-11eb-8508-60c472ee939f.png) ![04](https://user-images.githubusercontent.com/74061946/109419726-3176ea00-79cf-11eb-868a-991bfebbe0c9.png)
+![03](https://user-images.githubusercontent.com/74061946/109419968-6172bd00-79d0-11eb-864b-bfe53a724042.png) ![04](https://user-images.githubusercontent.com/74061946/109420017-8d8e3e00-79d0-11eb-84de-9a3cc4637e72.png)
 
 #### Full responsive animation 
 
